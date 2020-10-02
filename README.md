@@ -1,13 +1,24 @@
-# adarshverma013
-Github  class assignment 1
-<html>
+<h1> This could be better <h1>
+
+<!DOCTYPE html>
+
 <head>
-<title>git class assignment 1</title>
 </head>
+
 <body>
-<h1> assignment 1 </h1>
+	<nav class="navbar background">
+		<ul class="nav-list">
+			<li><a href="#home">Home</a></li>
+			<li><a href="#home">About</a></li>
+			<li><a href="#home">Service</a></li>
+			<li><a href="#home">Contact_Us</a></li>
+		</ul>
+		<div class="rightNav">
+			<input type="text" name="search" id="search">
+			<button class="btn btn-sm">Search</button>
+		</div>
+  </nav>
+
 </body>
-vnskjm,njej
-  rgkrjgbvnejmk
-  genjkvkb
-  vnsbvkdsna
+
+</html>
